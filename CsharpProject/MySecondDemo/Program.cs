@@ -1,13 +1,13 @@
 ﻿// See https://aka.ms/new-console-template for more information
 // Console.WriteLine("Hello, World!");
 
-namespace MyFristDemo       // 方案名
+namespace MySecondDemo
 {
-    class Program  
+    class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("This is My Frist Demo");
+            Console.WriteLine("This is My Second Demo!");
             Console.ReadKey();
         }
     }
