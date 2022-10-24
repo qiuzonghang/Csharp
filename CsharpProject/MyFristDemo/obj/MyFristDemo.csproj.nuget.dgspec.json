@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\86199\\source\\repos\\Csharp\\CsharpProject\\MyFristDemo\\MyFristDemo.csproj": {}
+    "/Users/qiuzongxing/Projects/Csharp/CsharpProject/MyFristDemo/MyFristDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\86199\\source\\repos\\Csharp\\CsharpProject\\MyFristDemo\\MyFristDemo.csproj": {
+    "/Users/qiuzongxing/Projects/Csharp/CsharpProject/MyFristDemo/MyFristDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\86199\\source\\repos\\Csharp\\CsharpProject\\MyFristDemo\\MyFristDemo.csproj",
+        "projectUniqueName": "/Users/qiuzongxing/Projects/Csharp/CsharpProject/MyFristDemo/MyFristDemo.csproj",
         "projectName": "MyFristDemo",
-        "projectPath": "C:\\Users\\86199\\source\\repos\\Csharp\\CsharpProject\\MyFristDemo\\MyFristDemo.csproj",
-        "packagesPath": "C:\\Users\\86199\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\86199\\source\\repos\\Csharp\\CsharpProject\\MyFristDemo\\obj\\",
+        "projectPath": "/Users/qiuzongxing/Projects/Csharp/CsharpProject/MyFristDemo/MyFristDemo.csproj",
+        "packagesPath": "/Users/qiuzongxing/.nuget/packages/",
+        "outputPath": "/Users/qiuzongxing/Projects/Csharp/CsharpProject/MyFristDemo/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\86199\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/qiuzongxing/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
         }
       }
     }
