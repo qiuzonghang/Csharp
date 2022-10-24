@@ -1,0 +1,15 @@
+C:\Users\86199\source\repos\Csharp\CsharpProject\MyFristDemo\bin\Debug\net6.0\MyFristDemo.exe
+C:\Users\86199\source\repos\Csharp\CsharpProject\MyFristDemo\bin\Debug\net6.0\MyFristDemo.deps.json
+C:\Users\86199\source\repos\Csharp\CsharpProject\MyFristDemo\bin\Debug\net6.0\MyFristDemo.runtimeconfig.json
+C:\Users\86199\source\repos\Csharp\CsharpProject\MyFristDemo\bin\Debug\net6.0\MyFristDemo.dll
+C:\Users\86199\source\repos\Csharp\CsharpProject\MyFristDemo\bin\Debug\net6.0\MyFristDemo.pdb
+C:\Users\86199\source\repos\Csharp\CsharpProject\MyFristDemo\obj\Debug\net6.0\MyFristDemo.csproj.AssemblyReference.cache
+C:\Users\86199\source\repos\Csharp\CsharpProject\MyFristDemo\obj\Debug\net6.0\MyFristDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\86199\source\repos\Csharp\CsharpProject\MyFristDemo\obj\Debug\net6.0\MyFristDemo.AssemblyInfoInputs.cache
+C:\Users\86199\source\repos\Csharp\CsharpProject\MyFristDemo\obj\Debug\net6.0\MyFristDemo.AssemblyInfo.cs
+C:\Users\86199\source\repos\Csharp\CsharpProject\MyFristDemo\obj\Debug\net6.0\MyFristDemo.csproj.CoreCompileInputs.cache
+C:\Users\86199\source\repos\Csharp\CsharpProject\MyFristDemo\obj\Debug\net6.0\MyFristDemo.dll
+C:\Users\86199\source\repos\Csharp\CsharpProject\MyFristDemo\obj\Debug\net6.0\refint\MyFristDemo.dll
+C:\Users\86199\source\repos\Csharp\CsharpProject\MyFristDemo\obj\Debug\net6.0\MyFristDemo.pdb
+C:\Users\86199\source\repos\Csharp\CsharpProject\MyFristDemo\obj\Debug\net6.0\MyFristDemo.genruntimeconfig.cache
+C:\Users\86199\source\repos\Csharp\CsharpProject\MyFristDemo\obj\Debug\net6.0\ref\MyFristDemo.dll
