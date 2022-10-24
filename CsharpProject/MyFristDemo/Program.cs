@@ -1,9 +1,9 @@
 ﻿// See https://aka.ms/new-console-template for more information
 // Console.WriteLine("Hello, World!");
 
-namespace MyFristDemo
+namespace MyFristDemo       // 方案名
 {
-    class Program
+    class Program  
     {
         static void Main(string[] args)
         {
