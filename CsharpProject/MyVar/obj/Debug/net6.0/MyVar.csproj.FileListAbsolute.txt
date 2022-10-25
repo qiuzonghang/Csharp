@@ -1,0 +1,15 @@
+C:\Users\86199\source\repos\Csharp\CsharpProject\MyVar\bin\Debug\net6.0\MyVar.exe
+C:\Users\86199\source\repos\Csharp\CsharpProject\MyVar\bin\Debug\net6.0\MyVar.deps.json
+C:\Users\86199\source\repos\Csharp\CsharpProject\MyVar\bin\Debug\net6.0\MyVar.runtimeconfig.json
+C:\Users\86199\source\repos\Csharp\CsharpProject\MyVar\bin\Debug\net6.0\MyVar.dll
+C:\Users\86199\source\repos\Csharp\CsharpProject\MyVar\bin\Debug\net6.0\MyVar.pdb
+C:\Users\86199\source\repos\Csharp\CsharpProject\MyVar\obj\Debug\net6.0\MyVar.csproj.AssemblyReference.cache
+C:\Users\86199\source\repos\Csharp\CsharpProject\MyVar\obj\Debug\net6.0\MyVar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\86199\source\repos\Csharp\CsharpProject\MyVar\obj\Debug\net6.0\MyVar.AssemblyInfoInputs.cache
+C:\Users\86199\source\repos\Csharp\CsharpProject\MyVar\obj\Debug\net6.0\MyVar.AssemblyInfo.cs
+C:\Users\86199\source\repos\Csharp\CsharpProject\MyVar\obj\Debug\net6.0\MyVar.csproj.CoreCompileInputs.cache
+C:\Users\86199\source\repos\Csharp\CsharpProject\MyVar\obj\Debug\net6.0\MyVar.dll
+C:\Users\86199\source\repos\Csharp\CsharpProject\MyVar\obj\Debug\net6.0\refint\MyVar.dll
+C:\Users\86199\source\repos\Csharp\CsharpProject\MyVar\obj\Debug\net6.0\MyVar.pdb
+C:\Users\86199\source\repos\Csharp\CsharpProject\MyVar\obj\Debug\net6.0\MyVar.genruntimeconfig.cache
+C:\Users\86199\source\repos\Csharp\CsharpProject\MyVar\obj\Debug\net6.0\ref\MyVar.dll
