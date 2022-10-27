@@ -1,0 +1,15 @@
+C:\Users\86199\source\repos\Csharp\CsharpProject\OneDay\bin\Debug\net6.0\OneDay.exe
+C:\Users\86199\source\repos\Csharp\CsharpProject\OneDay\bin\Debug\net6.0\OneDay.deps.json
+C:\Users\86199\source\repos\Csharp\CsharpProject\OneDay\bin\Debug\net6.0\OneDay.runtimeconfig.json
+C:\Users\86199\source\repos\Csharp\CsharpProject\OneDay\bin\Debug\net6.0\OneDay.dll
+C:\Users\86199\source\repos\Csharp\CsharpProject\OneDay\bin\Debug\net6.0\OneDay.pdb
+C:\Users\86199\source\repos\Csharp\CsharpProject\OneDay\obj\Debug\net6.0\OneDay.csproj.AssemblyReference.cache
+C:\Users\86199\source\repos\Csharp\CsharpProject\OneDay\obj\Debug\net6.0\OneDay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\86199\source\repos\Csharp\CsharpProject\OneDay\obj\Debug\net6.0\OneDay.AssemblyInfoInputs.cache
+C:\Users\86199\source\repos\Csharp\CsharpProject\OneDay\obj\Debug\net6.0\OneDay.AssemblyInfo.cs
+C:\Users\86199\source\repos\Csharp\CsharpProject\OneDay\obj\Debug\net6.0\OneDay.csproj.CoreCompileInputs.cache
+C:\Users\86199\source\repos\Csharp\CsharpProject\OneDay\obj\Debug\net6.0\OneDay.dll
+C:\Users\86199\source\repos\Csharp\CsharpProject\OneDay\obj\Debug\net6.0\refint\OneDay.dll
+C:\Users\86199\source\repos\Csharp\CsharpProject\OneDay\obj\Debug\net6.0\OneDay.pdb
+C:\Users\86199\source\repos\Csharp\CsharpProject\OneDay\obj\Debug\net6.0\OneDay.genruntimeconfig.cache
+C:\Users\86199\source\repos\Csharp\CsharpProject\OneDay\obj\Debug\net6.0\ref\OneDay.dll

@@ -1,0 +1,15 @@
+C:\Users\86199\source\repos\Csharp\CsharpProject\TwoDay\bin\Debug\net6.0\TwoDay.exe
+C:\Users\86199\source\repos\Csharp\CsharpProject\TwoDay\bin\Debug\net6.0\TwoDay.deps.json
+C:\Users\86199\source\repos\Csharp\CsharpProject\TwoDay\bin\Debug\net6.0\TwoDay.runtimeconfig.json
+C:\Users\86199\source\repos\Csharp\CsharpProject\TwoDay\bin\Debug\net6.0\TwoDay.dll
+C:\Users\86199\source\repos\Csharp\CsharpProject\TwoDay\bin\Debug\net6.0\TwoDay.pdb
+C:\Users\86199\source\repos\Csharp\CsharpProject\TwoDay\obj\Debug\net6.0\TwoDay.csproj.AssemblyReference.cache
+C:\Users\86199\source\repos\Csharp\CsharpProject\TwoDay\obj\Debug\net6.0\TwoDay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\86199\source\repos\Csharp\CsharpProject\TwoDay\obj\Debug\net6.0\TwoDay.AssemblyInfoInputs.cache
+C:\Users\86199\source\repos\Csharp\CsharpProject\TwoDay\obj\Debug\net6.0\TwoDay.AssemblyInfo.cs
+C:\Users\86199\source\repos\Csharp\CsharpProject\TwoDay\obj\Debug\net6.0\TwoDay.csproj.CoreCompileInputs.cache
+C:\Users\86199\source\repos\Csharp\CsharpProject\TwoDay\obj\Debug\net6.0\TwoDay.dll
+C:\Users\86199\source\repos\Csharp\CsharpProject\TwoDay\obj\Debug\net6.0\refint\TwoDay.dll
+C:\Users\86199\source\repos\Csharp\CsharpProject\TwoDay\obj\Debug\net6.0\TwoDay.pdb
+C:\Users\86199\source\repos\Csharp\CsharpProject\TwoDay\obj\Debug\net6.0\TwoDay.genruntimeconfig.cache
+C:\Users\86199\source\repos\Csharp\CsharpProject\TwoDay\obj\Debug\net6.0\ref\TwoDay.dll
