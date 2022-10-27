@@ -1,0 +1,15 @@
+C:\Users\86199\source\repos\Csharp\CsharpProject\ThreeDay\bin\Debug\net6.0\ThreeDay.exe
+C:\Users\86199\source\repos\Csharp\CsharpProject\ThreeDay\bin\Debug\net6.0\ThreeDay.deps.json
+C:\Users\86199\source\repos\Csharp\CsharpProject\ThreeDay\bin\Debug\net6.0\ThreeDay.runtimeconfig.json
+C:\Users\86199\source\repos\Csharp\CsharpProject\ThreeDay\bin\Debug\net6.0\ThreeDay.dll
+C:\Users\86199\source\repos\Csharp\CsharpProject\ThreeDay\bin\Debug\net6.0\ThreeDay.pdb
+C:\Users\86199\source\repos\Csharp\CsharpProject\ThreeDay\obj\Debug\net6.0\ThreeDay.csproj.AssemblyReference.cache
+C:\Users\86199\source\repos\Csharp\CsharpProject\ThreeDay\obj\Debug\net6.0\ThreeDay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\86199\source\repos\Csharp\CsharpProject\ThreeDay\obj\Debug\net6.0\ThreeDay.AssemblyInfoInputs.cache
+C:\Users\86199\source\repos\Csharp\CsharpProject\ThreeDay\obj\Debug\net6.0\ThreeDay.AssemblyInfo.cs
+C:\Users\86199\source\repos\Csharp\CsharpProject\ThreeDay\obj\Debug\net6.0\ThreeDay.csproj.CoreCompileInputs.cache
+C:\Users\86199\source\repos\Csharp\CsharpProject\ThreeDay\obj\Debug\net6.0\ThreeDay.dll
+C:\Users\86199\source\repos\Csharp\CsharpProject\ThreeDay\obj\Debug\net6.0\refint\ThreeDay.dll
+C:\Users\86199\source\repos\Csharp\CsharpProject\ThreeDay\obj\Debug\net6.0\ThreeDay.pdb
+C:\Users\86199\source\repos\Csharp\CsharpProject\ThreeDay\obj\Debug\net6.0\ThreeDay.genruntimeconfig.cache
+C:\Users\86199\source\repos\Csharp\CsharpProject\ThreeDay\obj\Debug\net6.0\ref\ThreeDay.dll

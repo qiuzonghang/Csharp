@@ -1,0 +1,15 @@
+C:\Users\86199\source\repos\Csharp\CsharpProject\OneDayFrist\bin\Debug\net6.0\OneDayFrist.exe
+C:\Users\86199\source\repos\Csharp\CsharpProject\OneDayFrist\bin\Debug\net6.0\OneDayFrist.deps.json
+C:\Users\86199\source\repos\Csharp\CsharpProject\OneDayFrist\bin\Debug\net6.0\OneDayFrist.runtimeconfig.json
+C:\Users\86199\source\repos\Csharp\CsharpProject\OneDayFrist\bin\Debug\net6.0\OneDayFrist.dll
+C:\Users\86199\source\repos\Csharp\CsharpProject\OneDayFrist\bin\Debug\net6.0\OneDayFrist.pdb
+C:\Users\86199\source\repos\Csharp\CsharpProject\OneDayFrist\obj\Debug\net6.0\OneDayFrist.csproj.AssemblyReference.cache
+C:\Users\86199\source\repos\Csharp\CsharpProject\OneDayFrist\obj\Debug\net6.0\OneDayFrist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\86199\source\repos\Csharp\CsharpProject\OneDayFrist\obj\Debug\net6.0\OneDayFrist.AssemblyInfoInputs.cache
+C:\Users\86199\source\repos\Csharp\CsharpProject\OneDayFrist\obj\Debug\net6.0\OneDayFrist.AssemblyInfo.cs
+C:\Users\86199\source\repos\Csharp\CsharpProject\OneDayFrist\obj\Debug\net6.0\OneDayFrist.csproj.CoreCompileInputs.cache
+C:\Users\86199\source\repos\Csharp\CsharpProject\OneDayFrist\obj\Debug\net6.0\OneDayFrist.dll
+C:\Users\86199\source\repos\Csharp\CsharpProject\OneDayFrist\obj\Debug\net6.0\refint\OneDayFrist.dll
+C:\Users\86199\source\repos\Csharp\CsharpProject\OneDayFrist\obj\Debug\net6.0\OneDayFrist.pdb
+C:\Users\86199\source\repos\Csharp\CsharpProject\OneDayFrist\obj\Debug\net6.0\OneDayFrist.genruntimeconfig.cache
+C:\Users\86199\source\repos\Csharp\CsharpProject\OneDayFrist\obj\Debug\net6.0\ref\OneDayFrist.dll
