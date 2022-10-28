@@ -1,0 +1,15 @@
+C:\Users\86199\source\repos\Csharp\CsharpProject\ThreeDayFrist\bin\Debug\net6.0\ThreeDayFrist.exe
+C:\Users\86199\source\repos\Csharp\CsharpProject\ThreeDayFrist\bin\Debug\net6.0\ThreeDayFrist.deps.json
+C:\Users\86199\source\repos\Csharp\CsharpProject\ThreeDayFrist\bin\Debug\net6.0\ThreeDayFrist.runtimeconfig.json
+C:\Users\86199\source\repos\Csharp\CsharpProject\ThreeDayFrist\bin\Debug\net6.0\ThreeDayFrist.dll
+C:\Users\86199\source\repos\Csharp\CsharpProject\ThreeDayFrist\bin\Debug\net6.0\ThreeDayFrist.pdb
+C:\Users\86199\source\repos\Csharp\CsharpProject\ThreeDayFrist\obj\Debug\net6.0\ThreeDayFrist.csproj.AssemblyReference.cache
+C:\Users\86199\source\repos\Csharp\CsharpProject\ThreeDayFrist\obj\Debug\net6.0\ThreeDayFrist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\86199\source\repos\Csharp\CsharpProject\ThreeDayFrist\obj\Debug\net6.0\ThreeDayFrist.AssemblyInfoInputs.cache
+C:\Users\86199\source\repos\Csharp\CsharpProject\ThreeDayFrist\obj\Debug\net6.0\ThreeDayFrist.AssemblyInfo.cs
+C:\Users\86199\source\repos\Csharp\CsharpProject\ThreeDayFrist\obj\Debug\net6.0\ThreeDayFrist.csproj.CoreCompileInputs.cache
+C:\Users\86199\source\repos\Csharp\CsharpProject\ThreeDayFrist\obj\Debug\net6.0\ThreeDayFrist.dll
+C:\Users\86199\source\repos\Csharp\CsharpProject\ThreeDayFrist\obj\Debug\net6.0\refint\ThreeDayFrist.dll
+C:\Users\86199\source\repos\Csharp\CsharpProject\ThreeDayFrist\obj\Debug\net6.0\ThreeDayFrist.pdb
+C:\Users\86199\source\repos\Csharp\CsharpProject\ThreeDayFrist\obj\Debug\net6.0\ThreeDayFrist.genruntimeconfig.cache
+C:\Users\86199\source\repos\Csharp\CsharpProject\ThreeDayFrist\obj\Debug\net6.0\ref\ThreeDayFrist.dll
